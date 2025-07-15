@@ -42,7 +42,7 @@ function App() {
   return (
     <>
       <GlobalStyle />
-      <div className= "container">
+      <div className="container">
         <Header favoritos={favoritos} itensNoCarrinho={carrinho} />
         <Produtos
           produtos={produtos}
