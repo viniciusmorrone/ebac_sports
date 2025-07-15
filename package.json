@@ -5,5 +5,8 @@
     "react-scripts": "^5.0.1",
     "styled-components": "^6.1.19",
     "web-vitals": "^5.0.3"
+  },
+  "devDependencies": {
+    "eslint-plugin-prettier": "^5.5.1"
   }
 }
