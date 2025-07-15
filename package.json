@@ -7,6 +7,9 @@
     "web-vitals": "^5.0.3"
   },
   "devDependencies": {
-    "eslint-plugin-prettier": "^5.5.1"
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-prettier": "^5.5.1",
+    "prettier": "^3.6.2"
   }
 }
